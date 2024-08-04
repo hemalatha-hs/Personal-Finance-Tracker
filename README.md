@@ -4,6 +4,6 @@ The "Personal Finance Tracker" is a Python-based command-line application design
 
 ![Screenshot (1035)](https://github.com/user-attachments/assets/48760658-e0bd-4443-8bd5-ff3352a060c6)
 
-![Screenshot (1036)](https://github.com/user-attachments/assets/10a5f200-fb48-4aa1-bc73-0d29000e4049)
+![Screenshot (1036)](https://github.com/user-attachments/assets/a060e3f4-cb74-4e1b-b50e-8db6d88913bd)
 
 ![Screenshot (1037)](https://github.com/user-attachments/assets/164030b7-c6a8-4af4-942c-256c6e4ba56b)
